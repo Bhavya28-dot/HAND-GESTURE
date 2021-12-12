@@ -1,0 +1,32 @@
+body{
+    background: url("purple\ background\ with\ clounds.jpg");
+    background-size: cover;
+    
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed crimson;
+  width: 350px;
+  height: 300px; 
+}
+#hand_gesture
+{
+  color: purple;
+}
+.hand_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 18px;
+  letter-spacing: 10px;
+  border-radius: 10px;
+}
